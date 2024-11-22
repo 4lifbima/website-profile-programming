@@ -42,8 +42,7 @@ Untuk Login admin:
 ```
 
 ## Screenshots
-
-![App Screenshot](https://github.com/destroylord/company-profile-gas/blob/main/public/ss/auth.png)
-![App Screenshot](https://github.com/destroylord/company-profile-gas/blob/main/public/ss/admin.png)
-![App Screenshot](https://github.com/destroylord/company-profile-gas/blob/main/public/ss/herro.png)
+<img src="./public/ss/auth.png">
+<img src="./public/ss/admin.png">
+<img src="./public/ss/herro.png">
 
