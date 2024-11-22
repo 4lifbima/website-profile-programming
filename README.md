@@ -1,7 +1,7 @@
 
 ## Installation
 
-Install Company profile gas dengan composer
+Install Company profile dengan composer
 
 ```bash
   cd company-profile-gas
@@ -37,13 +37,13 @@ Url : ```http://127.0.0.1:8000/admin/login```
 
 Untuk Login admin:
 ```php
-  username: admin@mail.com
+  username: admin@gmail.com
   password: password
 ```
 
 ## Screenshots
 
-![App Screenshot](https://github.com/destroylord/company-profile-gas/blob/main/public/ss/login.png)
-![App Screenshot](https://github.com/destroylord/company-profile-gas/blob/main/public/ss/dashboard.png)
-![App Screenshot](https://github.com/destroylord/company-profile-gas/blob/main/public/ss/landing-page.png)
+![App Screenshot](https://github.com/destroylord/company-profile-gas/blob/main/public/ss/auth.png)
+![App Screenshot](https://github.com/destroylord/company-profile-gas/blob/main/public/ss/admin.png)
+![App Screenshot](https://github.com/destroylord/company-profile-gas/blob/main/public/ss/herro.png)
 
